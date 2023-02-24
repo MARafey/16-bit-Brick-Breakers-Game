@@ -1,5 +1,7 @@
-Break Breaker
-     Brick breaker is a classic arcade game that involves breaking bricks by bouncing a ball on a paddle. As a 16-bit assembly language game, it was likely developed for a retro gaming platform, such as an early home computer or game console. Here's a breakdown of how i implemented this game:
+*Break Breaker:*
+
+     Brick breaker is a classic arcade game that involves breaking bricks by bouncing a ball on a paddle. As a 16-bit assembly language game, it was likely developed for
+     a retro gaming platform, such as an early home computer or game console. Here's a breakdown of how i implemented this game:
 
 1. Initializing the game: When the game starts, the program would likely first initialize the graphics and sound systems, as well as any necessary data structures (such as an array to hold the bricks). It may also display a main menu, allowing the player to choose options like starting the game, reading instructions, or quitting.
 
