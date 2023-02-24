@@ -1,4 +1,4 @@
-#Break Breaker:
+# Break Breaker:
 
      Brick breaker is a classic arcade game that involves breaking bricks by bouncing a ball on a paddle. As a 16-bit assembly language game, it was likely developed for
      a retro gaming platform, such as an early home computer or game console. Here's a breakdown of how i implemented this game:
